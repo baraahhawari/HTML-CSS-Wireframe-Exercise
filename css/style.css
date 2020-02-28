@@ -1,0 +1,73 @@
+body {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#logo_img {
+  margin: 1%;
+  float: left;
+  padding-left: 13.5%;
+}
+
+header {
+  height: 90px;
+  background-color: black;
+}
+
+ul {
+  padding: 3% 1.5%;
+}
+
+li {
+  display: inline;
+  margin: 5%;
+}
+
+a {
+  text-decoration: none;
+  color: darkgray;
+}
+
+main {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#slider {
+  margin-top: 20px;
+}
+
+#photo_galary {
+  width: 100%;
+}
+
+.photo_galary {
+  float: left;
+  margin: 10px;
+}
+
+#aside_pic {
+  margin: 1%;
+}
+
+#scroll {
+  width: 440px;
+  height: 360px;
+  float: right;
+  overflow: scroll;
+  margin-top: 1%;
+}
+
+button {
+  float: right;
+  margin: -50px 32%;
+  background-color: black;
+  color: darkgray;
+  padding: 1%;
+}
+
+footer {
+  background-color: black;
+  height: 60px;
+  margin-top: 1%;
+}
