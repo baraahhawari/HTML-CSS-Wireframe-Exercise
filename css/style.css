@@ -3,10 +3,10 @@ body {
   margin: 0 auto;
 }
 
-#logo_img {
+header img:first-child {
   margin: 1%;
   float: left;
-  padding-left: 13.5%;
+  padding-left: 14.5%;
 }
 
 header {
@@ -33,24 +33,22 @@ main {
   margin: 0 auto;
 }
 
-#slider {
-  margin-top: 20px;
+img:first-child {
+  margin: 1%;
+  float: left;
 }
 
-#photo_galary {
-  width: 100%;
-}
-
-.photo_galary {
+img:nth-child(2),
+div img:last-child {
   float: left;
   margin: 10px;
 }
 
-#aside_pic {
+aside img {
   margin: 1%;
 }
 
-#scroll {
+aside div {
   width: 440px;
   height: 360px;
   float: right;
@@ -67,6 +65,7 @@ button {
 }
 
 footer {
+  clear: both;
   background-color: black;
   height: 60px;
   margin-top: 1%;

@@ -6,3 +6,4 @@ Practice building out a professional-style wire-frame document. It's done only b
 
 - The whole point of a wireframe is to get the layout figured out, while the real content can get **added** in the future.
 - Wireframes allow the client to drive what layouts they like and what they don’t like.
+- all of the HTML doesn't any classes or IDs
